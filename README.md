@@ -1,5 +1,4 @@
 # Challenge IoT – Detecção Facial com Python / OpenCV
----
 
 ## Objetivo do trabalho
 - Implementar detecção facial local e interativa.
