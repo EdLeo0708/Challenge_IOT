@@ -23,6 +23,16 @@
 `tamanho_minimo_rosto`:
 
 - Evita detectar objetos pequenos como se fossem faces
+---
+
+## Tecnologias
+- Python 3.8+
+- OpenCV (`opencv-python`)
+- Webcam (integrada ou USB)
+
+## Requisitos
+- Ter Python 3.8+ instalado.
+- Ter webcam conectada.
 
 ---
 
