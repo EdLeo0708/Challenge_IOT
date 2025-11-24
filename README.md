@@ -6,6 +6,14 @@ Este projeto implementa um sistema de **detecção facial em tempo real** utiliz
 
 ---
 
-## 📦 Instalação
+###Grupo / 3ESPA:
 
-### 1. Clone o repositório
+Edson Leonardo: RM553737
+
+Eduardo Mazelli: RM553236
+
+Lucas Masaki: RM553084
+
+Joseh Gabriel:553094
+
+Pedro Henrique:552743
