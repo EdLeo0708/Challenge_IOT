@@ -4,8 +4,27 @@
 
 ---
 
+*precisao_busca*
+
+- Quanto menor → mais preciso
+
+- Quanto maior → mais rápido, porém detecta menos
+
+*confianca_deteccao*
+
+- Quantos retângulos precisam confirmar a detecção
+
+- Evita erros e falsos positivos
+
+*tamanho_minimo_rosto*
+
+- Evita detectar objetos pequenos como se fossem faces
+
+---
+
   O scaleFactor define o quão rápido o algoritmo reduz a imagem. Quanto menor, mais preciso, porém mais lento.
 Já o minNeighbors define quantos retângulos precisam concordar para confirmar que realmente existe uma face. Quanto maior esse valor, mais rigorosa fica a detecção.
+
 
 ---
 
