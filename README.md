@@ -11,19 +11,19 @@
 
 ---
 
-*precisao_busca*:
+`precisao_busca`:
 
 - Quanto menor → mais preciso
 
 - Quanto maior → mais rápido, porém detecta menos
 
-*confianca_deteccao*:
+`confianca_deteccao`:
 
 - Quantos retângulos precisam confirmar a detecção
 
 - Evita erros e falsos positivos
 
-*tamanho_minimo_rosto*:
+`tamanho_minimo_rosto`:
 
 - Evita detectar objetos pequenos como se fossem faces
 
