@@ -53,3 +53,7 @@ Lucas Masaki: RM553084
 Joseh Gabriel:553094
 
 Pedro Henrique:552743
+
+
+### LINK VIDEO
+[Video](https://youtu.be/sQDC-RhMapk)
