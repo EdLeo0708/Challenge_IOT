@@ -1,5 +1,5 @@
 # Challenge IoT – Detecção Facial com Python / OpenCV
-##⚖️ Nota Ética
+## ⚖️ Nota Ética
 Este projeto demonstra detecção facial apenas para uso educacional.
 Não deve ser utilizado para vigilância, identificação pessoal ou coleta de dados sensíveis.
 
